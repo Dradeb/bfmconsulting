@@ -42,7 +42,7 @@ section {
     z-index: 10 !important; 
     color: #2E1C45 !important;
     font-family: "Poppins";
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
     font-size: 3.5rem;
     width: 40vw;
@@ -611,9 +611,9 @@ footer .social-icon li i:hover {
   
   section h1{
     z-index: 10 !important; 
-    color: white !important;
+    color: #2E1C45 !important;
     font-family: "Poppins";
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
     font-size: 2rem;
     width: 40vw;
